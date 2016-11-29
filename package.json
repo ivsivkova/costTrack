@@ -1,0 +1,41 @@
+{
+  "name": "costtrack",
+  "version": "1.0.0",
+  "description": "app for tracking costs developer with angular 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivsivkova/costTrack.git"
+  },
+  "keywords": [
+    "cost",
+    "traking",
+    "application",
+    "angular",
+    "2",
+    "gulp",
+    "sass"
+  ],
+  "author": "Irina Sivkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivsivkova/costTrack/issues"
+  },
+  "homepage": "https://github.com/ivsivkova/costTrack#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}
